@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:hooks_example/text_controller_ex/text_controller_example.dart';
+
+import 'examples/text_controller/text_controller_example.dart';
 
 void main() {
   runApp(const MyApp());
